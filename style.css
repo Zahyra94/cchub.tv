@@ -10,13 +10,9 @@ body {
       height: 100vh;
       text-align: center;
     }
-.main-page{
-      display: flex;
-      flex-direction: column;
-}
 #cchub-logo{
       width: 100%
-}
+      }
     h1 {
       font-size: 3rem;
       margin: 0;
@@ -33,6 +29,7 @@ body {
       font-size: 0.8rem;
       color: #f5f5f5;
     }
+
 
 
 
